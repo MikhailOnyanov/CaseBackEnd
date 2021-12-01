@@ -38,3 +38,43 @@ C:\Users\Xiaomi\OneDrive\Рабочий стол\web проекты\simple\simpl
 C:\Users\Xiaomi\OneDrive\Рабочий стол\web проекты\simple\simple\obj\Debug\net5.0\simple.pdb
 C:\Users\Xiaomi\OneDrive\Рабочий стол\web проекты\simple\simple\obj\Debug\net5.0\simple.genruntimeconfig.cache
 C:\Users\Xiaomi\OneDrive\Рабочий стол\web проекты\simple\simple\obj\Debug\net5.0\simple.csproj.CopyComplete
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\bin\Debug\net5.0\appsettings.json
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\bin\Debug\net5.0\simple.exe
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\bin\Debug\net5.0\simple.deps.json
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\bin\Debug\net5.0\simple.runtimeconfig.json
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\bin\Debug\net5.0\simple.runtimeconfig.dev.json
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\bin\Debug\net5.0\simple.dll
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\bin\Debug\net5.0\ref\simple.dll
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\bin\Debug\net5.0\simple.pdb
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\bin\Debug\net5.0\simple.Views.dll
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\bin\Debug\net5.0\simple.Views.pdb
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.AssemblyInfo.cs
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.RazorAssemblyInfo.cache
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.RazorAssemblyInfo.cs
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\staticwebassets\simple.StaticWebAssets.Manifest.cache
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\staticwebassets\simple.StaticWebAssets.xml
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\scopedcss\bundle\simple.styles.css
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.TagHelpers.input.cache
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.TagHelpers.output.cache
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.RazorCoreGenerate.cache
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.RazorTargetAssemblyInfo.cache
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.RazorTargetAssemblyInfo.cs
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.Views.pdb
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.dll
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\ref\simple.dll
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.pdb
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.genruntimeconfig.cache
+C:\Users\Xiaomi\OneDrive\Документы\GitHub\CaseBackEnd\README.md\simple\simple\obj\Debug\net5.0\simple.csproj.CopyComplete
